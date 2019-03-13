@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Orhan Metin git ögreniyor..
                 </div>
 
                 <div class="links">
