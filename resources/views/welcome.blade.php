@@ -84,6 +84,7 @@
                     Orhan Metin git ögreniyor..
                     Master bey diyeceksiniz..
 					Okur beyy..
+                    Test Android phone
                 </div>
 
                 <div class="links">
