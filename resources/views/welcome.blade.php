@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Orhan Metin git ögreniyor..
+                    Orhan Metin git ögreniyor.. ver0.0.1 deneme
                 </div>
 
                 <div class="links">
