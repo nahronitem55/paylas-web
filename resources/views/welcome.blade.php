@@ -83,6 +83,7 @@
                 <div class="title m-b-md">
                     Orhan Metin git ögreniyor..
                     Master bey diyeceksiniz..
+					Okur beyy..
                 </div>
 
                 <div class="links">
