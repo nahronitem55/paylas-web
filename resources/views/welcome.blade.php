@@ -88,9 +88,7 @@
                     Test Android phone
                     apı sorry
                     heyyy pardon
-=======
                     Orhan Metin git ögreniyor.. ver0.0.1 deneme
->>>>>>> parent of 6c4b454... Merge pull request #8 from nahronitem55/ver0.0.1
                 </div>
 
                 <div class="links">
