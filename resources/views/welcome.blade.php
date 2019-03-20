@@ -81,12 +81,16 @@
 
             <div class="content">
                 <div class="title m-b-md">
+<<<<<<< HEAD
                     Orhan Metin git ögreniyor..
                     Master bey diyeceksiniz..
 					Okur beyy..
                     Test Android phone
                     apı sorry
                     heyyy pardon
+=======
+                    Orhan Metin git ögreniyor.. ver0.0.1 deneme
+>>>>>>> parent of 6c4b454... Merge pull request #8 from nahronitem55/ver0.0.1
                 </div>
 
                 <div class="links">
