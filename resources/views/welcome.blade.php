@@ -86,7 +86,7 @@
 					Okur beyy..
                     Test Android phone
                     apı sorry
-                    heyyy
+                    heyyy pardon
                 </div>
 
                 <div class="links">
