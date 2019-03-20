@@ -85,6 +85,7 @@
                     Master bey diyeceksiniz..
 					Okur beyy..
                     Test Android phone
+                    apı sorry
                 </div>
 
                 <div class="links">
